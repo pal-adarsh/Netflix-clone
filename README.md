@@ -21,9 +21,6 @@ A responsive, modern, and visually appealing Netflix clone homepage built entire
 - **Font Awesome** (for icons)
 - **Vanilla JavaScript** (minimal, for toggles and carousel scrolling)
 
-
-> Note: Ensure local image paths like `images/TV.png` and `./hero-image.jpg` are correctly placed relative to the HTML file when hosting.
-
 ## 🎯 How to Run
 
 1. Clone or download the repository.
